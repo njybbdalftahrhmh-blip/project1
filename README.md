@@ -141,7 +141,3 @@ The app provides
 
 
 
-
-## 📄 License
-
-MIT License. See `LICENSE` for details.
